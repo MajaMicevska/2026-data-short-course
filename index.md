@@ -152,7 +152,7 @@ can be added to the course repo.
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Lilly Jones (instructor)      | ESIIL; Earth Lab      | lijo8146        | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
 | C. Jason Tinant (participant) | Oglala Lakota College | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
-| Lilly Jones (instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Basama Al-Kindi (Researcher) | University of Nizwa | Basmalkindi | [https://basmalkindi.github.io/](https://basmalkindi.github.io/) |
 | Aniruddha Mararthe (Student) | Independent Researcher | aniruddhamarathe | [https://aniruddhamarathe.github.io/](https://aniruddhamarathe.github.io/) |
 | Brian Erickson | Oregon State University | ericksbr | [https://ericksbr.github.io](https://ericksbr.github.io) |
 | Lucas Mansfield (student) | Michigan State University | lmansf44 | [https://lmansf44.github.io/](https://lmansf44.github.io/) |
