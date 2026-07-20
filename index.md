@@ -142,6 +142,11 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Participants
 
+| Name      | Organization | GitHub Username |  GitHub Portfolio Link    |      
+| ----------- | ----------- | ---------- | ---------- |
+| Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
+| Lilly Jones (instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Pauline Jackson (participant) | Sinte Gleska University | pjsgu605 | [https://pjsgu605.github.io/](https://pjsgu605.github.io/). |
 Please add your name, organization, GitHub username, and link to GitHub
 portfolio to the table below. To do this you will need to **fork** this
 repository, make the changes, and submit a **pull request** so that your changes
@@ -151,6 +156,7 @@ can be added to the course repo.
 | ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Lilly Jones (instructor)      | ESIIL; Earth Lab      | lijo8146        | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Ramadan El Sharif (participant) | Wilberforce University | ramadanaielsharif | [https://ramadanaielsharif.github.io/] (https://ramadanaielsharif.github.io/) |
 | C. Jason Tinant (participant) | Oglala Lakota College | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
 | Basama Al-Kindi (Researcher) | University of Nizwa | Basmalkindi | [https://basmalkindi.github.io/](https://basmalkindi.github.io/) |
 | Aniruddha Mararthe (Student) | Independent Researcher | aniruddhamarathe | [https://aniruddhamarathe.github.io/](https://aniruddhamarathe.github.io/) |
@@ -162,6 +168,8 @@ can be added to the course repo.
 | Nayani Ilangakoon (student) | Earth Lab | Chathu84 | [https://chathu84.github.io/nayani-I.github.io/](https://chathu84.github.io/nayani-I.github.io/) |
 | Theresa N. Monari | Student | Iamnyatichi | [https://iamnyatichi.github.io/](https://iamnyatichi.github.io/) |
 | Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://github.com/Omshanti0m](https://github.com/Omshanti0m) |
+| Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |      
+| Sara Tabatabaie (participant) | Environmental Design CU Boulder | saratabatabaie | [https://saratabatabaie.github.io/](https://saratabatabaie.github.io/) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |    
 | Nishita Ivy (Participant) | Research Fellow, Earth System Governance Project | nishitaivy | [https://nishitaivy.github.io/](https://nishitaivy.github.io/) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |   
@@ -169,5 +177,10 @@ can be added to the course repo.
 | Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha  |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
 | Julia Siegel (she/her) (Participant) | Independent Researcher | juliasiegel | [https://juliasiegel.github.io/](https://juliasiegel.github.io/) |
 | Orlando Acevedo-Charry (he/his/el) (Participant) | University of Florida | OACColombia | [https://oaccolombia.github.io](https://oaccolombia.github.io/) |
+| Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/)
 | Oumar Jaffar (Participant) | University Mohammed VI Polytechnic | OumarJaffar-R | [https://oumarjaffar-r.github.io/](https://oumarjaffar-r.github.io/) |
 | Elijah Oluwapelumi ( ESIIL 2026 Participant) | FUTA, Nigeria | Elijah-Oluwapelumi | [https://elijah-oluwapelumi.github.io/](https://elijah-oluwapelumi.github.io/) |
+| Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.github.io/](https://majamicevska.github.io/) |
+| Arundhati Das (Participant) | Azim Premji University | Arundhati-shola | [https://arundhati-shola.github.io/](https://arundhati-shola.github.io/) |
+| Caitlin Hawley (Participant) | Arizona State University | crhawley | [https://crhawley.github.io/](https://crhawley.github.io/) |
+
